@@ -11,6 +11,24 @@
 
 <hr>
 
+<p align="center">
+    <a alt="GitHub">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a alt="PostGresql">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </a>
+    <a alt="Vscode">
+        <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </a>
+    <a alt="Streamlit">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+    </a>
+    <a alt="Git">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    </a>
+</p>
+
 Este projeto demonstra um pipeline ETL completo utilizando Python para extrair dados da API do Bitcoin, processá-los com o Agno Agente AI, armazená-los em um banco de dados SQL e visualizá-los com Streamlit.
 
 ## Funcionalidades
